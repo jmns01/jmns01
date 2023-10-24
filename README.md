@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **jmns01/jmns01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📊 Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmns01&show_icons=true&theme=midnight-purple)]
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmns01&layout=donut&theme=midnight-purple)]
