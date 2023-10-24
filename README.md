@@ -31,13 +31,13 @@
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  />
 <img align="left" alt="OpenGL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"  />
 <img align="left" alt=".NET" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"  />
-
+<br />
 #
 
 ## 📊 Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmns01&show_icons=true&theme=midnight-purple)]
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmns01&layout=donut&theme=midnight-purple)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmns01&show_icons=true&theme=midnight-purple)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmns01&layout=donut&theme=midnight-purple)
 
 <!--
 **jmns01/jmns01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
