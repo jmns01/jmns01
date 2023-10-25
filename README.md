@@ -11,7 +11,7 @@
          <img alt="email" title="email" src="https://custom-icon-badges.demolab.com/badge/-contact%20me-c71610?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
    </p>
 
-I'm a Computer Engineering finalist at the University of Minho with just a couple of courses left to complete before I embark on a new chapter in my academic journey. My passion for technology and cybersecurity has been the driving force behind my education and future ambitions.
+I'm a Computer Engineering finalist at the University of Minho with just a couple of courses left to complete before I embark on a new chapter in my life journey. My passion for technology and cybersecurity has been the driving force behind my education and future ambitions.
 
 ## 🌐 About Me
 - 🎓 Final Year Student in Computer Engineering
