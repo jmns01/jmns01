@@ -15,7 +15,7 @@ I'm a Computer Engineering finalist at the University of Minho with just a coupl
 
 ## 🌐 About Me
 - 🎓 Final Year Student in Computer Engineering
-- 🔒 Aspiring Cybersecurity Enthusiast
+- 📖 Currently pursuing English Proficiency (C2)
 - 🌱 Lifelong Learner
 
 ## 🚀 Current Goals
@@ -54,24 +54,14 @@ I'm a Computer Engineering finalist at the University of Minho with just a coupl
 - [ExpenseTracker - a C# application with SQL databases](https://github.com/jmns01/ExpenseTracker)
 - [ATtiny85 sketches - My variouse sketches for a Digistump ATtiny85 board](https://github.com/jmns01/ATtiny85-MySketches)
 
+#
+
 ## 📊 Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmns01&show_icons=true&theme=midnight-purple)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmns01&layout=donut&theme=midnight-purple)
 
 
+#
+
 🌟 Thank you for visiting my GitHub profile! I'm excited about the opportunities ahead and am always eager to learn, collaborate, and make a positive impact in the world of technology and security.
-<!--
-**jmns01/jmns01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
