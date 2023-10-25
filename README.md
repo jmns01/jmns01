@@ -1,11 +1,8 @@
 # Hi there and welcome 👋
 
 **`🧙 Code Sorcecer: Crafting Digital Magic`**
-<!--
-[![LinkedIn badge](https://img.shields.io/badge/-joao-silva01-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joaosilva01)
-[![Instagram badge](https://img.shields.io/badge/-@joao_manuel7-purple?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/joao_manuel7/)
-[![Email badge](https://img.shields.io/badge/-jmns.2001-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jmns.2001@gmail.com)
--->
+
+I'm a finalist in Computer Engineering at University of Minho.
 
 <p align="left">
       <a href="https://www.linkedin.com/in/joaosilva01">
@@ -18,7 +15,7 @@
 
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 <img align="left" alt="Haskell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -32,7 +29,14 @@
 <img align="left" alt="OpenGL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"  />
 <img align="left" alt=".NET" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"  />
 <br />
+
 #
+
+## 🖥️ Some of my projects
+
+- [University - an overview of my academic path](https://github.com/jmns01/University)
+- [ExpenseTracker - a C# application with SQL databases](https://github.com/jmns01/ExpenseTracker)
+- [ATtiny85 sketches - My variouse sketches for a Digistump ATtiny85 board](https://github.com/jmns01/ATtiny85-MySketches)
 
 ## 📊 Stats
 
