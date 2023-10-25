@@ -1,8 +1,26 @@
-# Hi there and welcome 👋
+# Hello. I'm João 👋
 
 **`🧙 Code Sorcecer: Crafting Digital Magic`**
 
-I'm a finalist in Computer Engineering at University of Minho.
+I'm a Computer Engineering finalist at the University of Minho with just a couple of courses left to complete before I embark on a new chapter in my academic journey. My passion for technology and cybersecurity has been the driving force behind my education and future ambitions.
+
+## 🌐 About Me
+- 🎓 Final Year Student in Computer Engineering
+- 🔒 Aspiring Cybersecurity Enthusiast
+- 🌱 Lifelong Learner
+
+## 🚀 Current Goals
+- 📚 Completing my Computer Engineering Degree
+- 💻 Building my understanding of the vast field that is Software Development
+- 🛡️ Pursuing Advanced Studies and Professional Qualification in Cybersecurity
+
+## 💡 Interests
+- 🧑‍💻 Low-Level Programming
+- 🔐 Code Security Analysis
+- 🛡️ Cybersecurity and Ethical Hacking
+- 🤖 Artificial Intelligence and Machine Learning
+
+#
 
 <p align="left">
       <a href="https://www.linkedin.com/in/joaosilva01">
@@ -43,6 +61,8 @@ I'm a finalist in Computer Engineering at University of Minho.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmns01&show_icons=true&theme=midnight-purple)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmns01&layout=donut&theme=midnight-purple)
 
+
+🌟 Thank you for visiting my GitHub profile! I'm excited about the opportunities ahead and am always eager to learn, collaborate, and make a positive impact in the world of technology and security.
 <!--
 **jmns01/jmns01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
