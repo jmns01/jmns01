@@ -2,6 +2,15 @@
 
 **`🧙 Code Sorcecer: Crafting Digital Magic`**
 
+<p align="left">
+      <a href="https://www.linkedin.com/in/joaosilva01">
+         <img alt="linkedin" title="joaosilva01" src="https://custom-icon-badges.demolab.com/badge/-joaosilva01-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+      <a href="https://www.instagram.com/joao_manuel7/">
+         <img alt="intagram" title="@joao_manuel7" src="https://custom-icon-badges.demolab.com/badge/-joao_manuel7-ea4aaa?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
+      <a href="mailto:jmns.2001@gmail.com">
+         <img alt="email" title="email" src="https://custom-icon-badges.demolab.com/badge/-contact%20me-c71610?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+   </p>
+
 I'm a Computer Engineering finalist at the University of Minho with just a couple of courses left to complete before I embark on a new chapter in my academic journey. My passion for technology and cybersecurity has been the driving force behind my education and future ambitions.
 
 ## 🌐 About Me
@@ -19,17 +28,6 @@ I'm a Computer Engineering finalist at the University of Minho with just a coupl
 - 🔐 Code Security Analysis
 - 🛡️ Cybersecurity and Ethical Hacking
 - 🤖 Artificial Intelligence and Machine Learning
-
-#
-
-<p align="left">
-      <a href="https://www.linkedin.com/in/joaosilva01">
-         <img alt="linkedin" title="joaosilva01" src="https://custom-icon-badges.demolab.com/badge/-joaosilva01-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-      <a href="https://www.instagram.com/joao_manuel7/">
-         <img alt="intagram" title="@joao_manuel7" src="https://custom-icon-badges.demolab.com/badge/-joao_manuel7-ea4aaa?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
-      <a href="mailto:jmns.2001@gmail.com">
-         <img alt="email" title="email" src="https://custom-icon-badges.demolab.com/badge/-contact%20me-c71610?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-   </p>
 
 ---
 
