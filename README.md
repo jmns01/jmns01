@@ -11,23 +11,7 @@
          <img alt="email" title="email" src="https://custom-icon-badges.demolab.com/badge/-contact%20me-c71610?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
    </p>
 
-I'm a Computer Engineering finalist at the University of Minho with just a couple of courses left to complete before I embark on a new chapter in my life journey. My passion for technology and cybersecurity has been the driving force behind my education and future ambitions.
-
-## 🌐 About Me
-- 🎓 Final Year Student in Computer Engineering
-- 📖 Currently pursuing English Proficiency (C2)
-- 🌱 Lifelong Learner
-
-## 🚀 Current Goals
-- 📚 Completing my Computer Engineering Degree
-- 💻 Building my understanding of the vast field that is Software Development
-- 🛡️ Pursuing Advanced Studies and Professional Qualification in Cybersecurity
-
-## 💡 Interests
-- 🧑‍💻 Low-Level Programming
-- 🔐 Code Security Analysis
-- 🛡️ Cybersecurity and Ethical Hacking
-- 🤖 Artificial Intelligence and Machine Learning
+I'm a recent graduate in Computer Engineering from the University of Minho ready to embark on a new chapter in my life journey.  My passion for technology and cybersecurity has been the driving force behind my education and future ambitions.
 
 ---
 
@@ -44,6 +28,8 @@ I'm a Computer Engineering finalist at the University of Minho with just a coupl
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  />
 <img align="left" alt="OpenGL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"  />
 <img align="left" alt=".NET" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"  />
+<img align="left" alt="Nodejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+          
 <br />
 
 #
